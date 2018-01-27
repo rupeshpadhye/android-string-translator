@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">Staptalk</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_notification">Notifications</string>
+    <string name="nav_item_profile">Profile</string>
+    <string name="nav_item_logout">Log out</string>
+
+    
+    <string name="class_alert">Alerts</string>
+    <string name="notices">Notices</string>
+    <string name="gallery">Gallery</string>
+    <string name="message">Messages</string>
+    <string name="attendance">Attendance</string>
+    <string name="fees">Fees</string>
+    <string name="password">Change Password</string>
+    <string name="close">Close Thread</string>
+    <string name="logout">Log Out</string>
+    <string name="videos">Videos</string>
+    <string name="events">Events</string>
+    <string name="blog">Blogs</string>
+    <string name="exam">Exam</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title">Title</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notes">Homework</string>
+    <string name="Result">Result</string>
+    <!-- <string name="app_name">Android Login and Registration</string>-->
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="title_select_gallary">Select Images</string>
+    <string name="title_activity_splash_screen">Staptalk</string>
+    <string name="title_activity_create_notice">Create Notice</string>
+    <string name="title_activity_create_notes">Create Homework</string>
+    <string name="title_activity_create_gallery">Create Gallery</string>
+    <string name="title_activity_create_message">CreateMessage</string>
+    <string name="title_activity_create_message_parent">Create Message</string>
+    <string name="ERROR">Error</string>
+    <string name="INTERNALSERVERERROR">Error while registration</string>
+    <string name="TRYAGIN">Try Again</string>
+    <string name="validation_mandatory">Field is mandatory</string>
+    <string name="no_network">Check your internet Connection </string>
+    <string name="device_not_registered">Device is not registered</string>
+    <string name="invalid_credentials">Invalid mobile no or password.</string>
+    <string name="attempt">Our representative will contact you shortly for help</string>
+
+    <string name="tap_to_close">Tap Again to close application</string>
+    <string name="details"> Alert Details </string>
+    <string name="publicVideo"> Public </string>
+    <string name="privateVideo"> School </string>
+    <string name="notice_details"> Notice Details </string>
+    <string name="confirm_delete">Delete</string>
+    <string name="prompt_delete_alert">Delete Alert?</string>
+    <string name="prompt_delete_notice">Delete Notice?</string>
+    <string name="prompt_delete_note">Delete Note?</string>
+    <string name="alert_deleted">Alert Deleted Successfully </string>
+    <string name="notice_deleted">Notice Deleted Successfully </string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="download_attachment">Download attachment</string>
+    <string name="no_alerts">Looks like School has not shared anything,come back later</string>
+    <string name="no_blogs">Looks like School has not shared anything,come back later</string>
+    <string name="no_attendance">Looks like School has not shared anything,come back later</string>
+    <string name="no_fees">No pending fees notification for your child</string>
+    <string name="no_notices">Looks like School has not shared anything,come back later</string>
+    <string name="active">Active</string>
+    <string name="expired">Expired</string>
+    <string name="no_messages">Looks like School has not shared anything,come back later</string>
+    <string name="no_events">Watch this section for the upcoming events in your town</string>
+    <string name="no_videos">Looks like School has not shared anything,come back later</string>
+    <string name="close_message">The thread is closed.</string>
+    <string name="update_application_title">Update Application</string>
+    <string name="force_update">You need to update this application to continue.</string>
+    <string name="optional_update">Update current version of this application from play store</string>
+    <string name="reset_input_details">Input Details</string>
+    <string name="reset_input_details_text">\nLet\'s Start!</string>
+    <string name="reset_input_subheader_details_text">Enter Email/Mobile to proceed</string>
+    <string name="reset_otp_subheader_details_text">You will receive OTP</string>
+    <string name="reset_otp_details_text">\nSit back &amp; Relax!</string>
+    <string name="reset_confirm_details_text">\nFinal Step! </string>
+    <string name="reset_confirm_subheader_details_text">\nSet New Password (Minimum 6 character) </string>
+    <string name="reset_otp">OTP</string>
+    <string name="activate_account">Forgot Password?</string>
+    <string name="closeThreadTitle">Close Thread</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_phone">Email/Mobile</string>
+    <string name="not_registered">Please provide the Mobile No registered with school</string>
+    <string name="invalid_otp">Invalid OTP</string>
+    <string name="password_mismatch">Passwords are not matching!</string>
+    <string name="password_len_msg">Minimum 6 Character password Required</string>
+    <string name="password_reset_success">You Successfully changed password </string>
+    <string name="old_password_wrong"> Old password is wrong </string>
+    <string name="yes">Yes</string>
+    <string name="activate_exit_msg">Do you really want to close current session</string>
+    <string name="closeThread">This will permanently block communication.Do you still want to close it?</string>
+    <string name="confirmation">Confirm?</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="showcase_reset_pwd_success">Click To Login</string>
+    <string name="showcase_act_account_title">Account is Activated</string>
+    <string name="showcase_act_account_message">Click on Login</string>
+    <string name="tour_showcase_intro_title">Welcome aboard\n</string>
+    <string name="tour_showcase_intro_desc">Staptalk is a Seamless communication system for Schools and Parents.\nIt is now an official communication tool for your institute.\n</string>
+    <string name="class_alert_intro_desc">A dedicated section to view class specific information.\nWatch out for those test announcements, reminders and class updates.</string>
+    <string name="notices_intro_desc">A dedicated section for School notices.\nCirculars and important info will be found here.</string>
+    <string name="attendance_intro_desc">A notification section for attendance.\nNow get notified for your child\'s absence</string>
+    <string name="fees_intro_desc">A notification section for pending fees</string>
+    <string name="multi_child">Have multiple kids studying in the same school?</string>
+    <string name="multi_child_desc">Use dropdown to switch view for your kids.</string>
+    <string name="showcase_end_title">Let\'s Explore</string>
+    <string name="showcase_end_desc">Team Staptalk is continuously improving and adding new features.\nWe recommend to use latest version from play store for best experience</string>
+    <string name="product_tour">Product Tour</string>
+    <string name="create_button">Create </string>
+    <string name="videos_desc">Learn more by watching videos</string>
+    <string name="events_desc">Participate in nearby competition,seminars,events</string>
+    <string name="blogs_desc">Stay updated by reading Blogs</string>
+    <string name="message_desc">One to One messaging</string>
+    <string name="create_btn_desc">You can create New Alert,New Notice,New Message By clicking plus Button.</string>
+    <string name="no_gallery">Looks like School has not shared anything,come back later </string>
+    <string name="CHOOSE_EXAM_ID">CHOOSE EXAM ID</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="view_result">View</string>
+    <string name="view_result_desc">View how your child performing in exams</string>
+    <string name="notes_desc">View Homework</string>
+    <string name="class_notes_desc">Share class notes</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_staptalk">Rate Staptalk</string>
+    <string name="exam_timetable">Timetable</string>
+    <string name="exam_results">Results</string>
+    <string name="profile">Profile</string>
+    <string name="holiday">Holidays</string>
+    <string name="notes_class">Classwork</string>
+    <string name="title_activity_create_class_notes">Create Class Notes</string>
+    <string name="no_notes">Looks like School has not shared anything,come back later</string>
+    <string name="no_class_notes">Looks like School has not shared anything,come back later</string>
+    <string name="gallerry_desc">View photoes of events in school</string>
+    <string name="pending_fees">Pending Fees</string>
+    <string name="paid_fees">Paid Fees Receipt</string>
+    <string name="no_paid_fees">No paid fee details available</string>
+
+  
+    <!-- Strings added for notice_board_row.xml -->
+     <string name="SubTiltle">SubTiltle</string>
+     <string name="createdBy">Created By</string>
+     <string name="createdOn">Created On</string>
+     <string name="status">status</string>
+    
+    <!-- Strings added for new_chat_layout2.xml -->
+     <string name="Hello_bubbles">Hello bubbles!</string>
+     
+         <!-- Strings added for message_list_row_layout.xml -->
+     <string name="true1">TRUE</string>
+     
+     
+         <!-- Strings added for gallery_details_activiy.xml -->
+     <string name="Description">Description</string>
+     
+     <!-- Strings added for content_create_message_parent.xml -->
+     <string name="To">To</string>
+     <string name="Subject">Subject : </string>
+     <string name="Description1">Description : </string>
+     <string name="Publish">Publish</string>
+     <string name="Discard">Discard</string>
+     
+        <!-- Strings added for content_create_message.xml -->
+     <string name="Student">Student</string>
+     <string name="Submit">Submit</string>
+     
+     <!-- Layout-land strings -->
+    <string name="Login">Login</string>
+    
+    
+     <!-- Strings added for activity_create_gallery.xml -->
+     <string name="No_Attachments">No Attachments</string>
+     <string name="Choose_Image_from_Gallery">Choose Image from Gallery</string>
+     
+      <!-- Strings added for activity_create_notice.xml -->
+     <string name="Select_a_file">Select a file</string>
+     <string name="Title1">Title : </string>
+     <string name="Date1">Date : </string>
+     <string name="To1">To : </string>
+    <string name="Title">Title</string>
+    <string name="updatedBy">updatedBy</string>
+    <string name="homework">Homework</string>
+    <string name="classwork">Classwork</string>
+
+
+
+    <!-- Strings added for activity_event_detail.xml -->
+     <string name="Event_Name">Event Name: </string>
+     <string name="Event_Date">Event Date: </string>
+     <string name="Event_Owner">Event Owner: </string>
+     <string name="Event_Fees">Event Fees: </string>
+     <string name="Address1">Address: </string>
+     <string name="Contact_No">Contact No: </string>
+     <string name="EmailId">Email Id: </string>
+     
+     
+       <!-- Strings added for alert_list_row_layout.xml -->
+     <string name="Tiltle">Tiltle</string>
+     
+        <!-- Strings added for attendance_admin_frag.xml -->
+     <string name="Class1">Class : </string>
+
+    <!-- Sstrings from hint -->
+    <string name="oldPassword">Old Password</string>
+    <string name="newPassword">New Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="otp1">OTP</string>
+    <string name="mobileNo">Mobile No. </string>
+    <string name="Password">Password</string>
+    <string name="type_Message">Type Message</string>
+
+    <string name="cancel">cancel</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="gallery_permission">Need data/media permission for adding attachment</string>
+    <string name="cure_lang_pref">Language Preference</string>
+    <string name="child_1"> 1st Child </string>
+    <string name="child_2">2nd Child </string>
+    <string name="select_doc_type">Select Document Type</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="upload_doc">Upload Document</string>
+    <string name="english_ln">English</string>
+    <string name="hindi_ln">हिंदी</string>
+    <string name="marathi_ln">मराठी</string>
+    <string name="attendace">Attendance</string>
+    <string name="select_class">Select Class</string>
+    <string name="update_details">Details updating</string>
+    <string name="details_updated">Details Updated Successfully</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="redirect">You will be Redirected to Login Page.</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">DOB</string>
+    <string name="mobileNo1">Mobile Number 1</string>
+    <string name="mobileNo2">Mobile Number 2</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="teacher_class">Teacher\\\'s Class</string>
+    <string name="assigned_classes">Assigned Classes</string>
+</resources>

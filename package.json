@@ -1,0 +1,30 @@
+{
+  "name": "anroid-language-translator",
+  "version": "1.0.0",
+  "description": "anroid language translator is node based tool to convert strings.xml in android to desired language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anroid",
+    "stings.xml",
+    "translate",
+    "translator",
+    "google",
+    "translate",
+    "api",
+    "free",
+    "language",
+    "localisation"
+  ],
+  "author": "Rupesh p",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
